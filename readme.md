@@ -8,7 +8,7 @@ O **Wildbeast** é um site fictício que serviu para aplicar praticamente todas 
 ## 🚀 Preview  
 🔗 [Acesse o projeto online aqui](https://thur-code.github.io/wildbeast-origamid/)
 
-![Preview do FlexBlog](./img.png) 
+![Preview do Wildbeast](./img.png) 
 
 ---
 
