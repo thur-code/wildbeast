@@ -1,14 +1,4 @@
-# 🐺 Wildbeast – Curso Origamid
-
-Projeto desenvolvido como parte do curso **[CSS Grid Layout](https://www.origamid.com/curso/css-grid-layout)** da Origamid.  
-O **Wildbeast** é um site fictício que serviu para aplicar praticamente todas as propriedades do **CSS Grid Layout**, desde a criação de colunas e linhas até layouts responsivos completos.
-
----
-
-## 🚀 Preview  
-🔗 [Acesse o projeto online aqui](https://thur-code.github.io/wildbeast-origamid/)
-
-![Preview do Wildbeast](./img.png) 
+🔗 [Acesse o projeto online aqui](https://thur-code.github.io/wildbeast/)
 
 ---
 
@@ -51,6 +41,4 @@ Durante a construção do projeto foram trabalhados:
 
 ---
 
-## 📝 Observações  
-- Projeto feito de forma guiada durante as aulas do curso Origamid.  
-- O design e o código foram mantidos próximos ao exemplo do professor, com o objetivo de consolidar os fundamentos de CSS Grid Layout.
+![Preview do Wildbeast](./img.png) 
